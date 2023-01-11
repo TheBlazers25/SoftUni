@@ -1,4 +1,4 @@
-# SoftUni Programming Fundamentals with Python 2022
+# SoftUni Programming with Python
 
 ![Software-University-Logo-blue-horizontal](https://user-images.githubusercontent.com/31969114/205450317-1d1e29a8-d5c7-4120-881f-fd42dd9221a9.png)
 
