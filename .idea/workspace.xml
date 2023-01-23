@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efe970d8-6372-4c3f-9763-708d78e62bf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab Exercises/Lists as Stacks and Queues/hot_potato.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Lists as Stacks and Queues/balanced_parantheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Lists as Stacks and Queues/fashion_boutique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Lists as Stacks and Queues/fast_food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Lists as Stacks and Queues/reverse_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Lists as Stacks and Queues/stacked_queries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Lists as Stacks and Queues/truck_tour.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
