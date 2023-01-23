@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="efe970d8-6372-4c3f-9763-708d78e62bf5" name="Changes" comment="" />
+    <list default="true" id="efe970d8-6372-4c3f-9763-708d78e62bf5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab Exercises/Lists as Stacks and Queues/hot_potato.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
