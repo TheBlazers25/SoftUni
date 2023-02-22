@@ -5,12 +5,104 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efe970d8-6372-4c3f-9763-708d78e62bf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Lists as Stacks and Queues/balanced_parantheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Lists as Stacks and Queues/fashion_boutique.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Lists as Stacks and Queues/fast_food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Lists as Stacks and Queues/reverse_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Lists as Stacks and Queues/stacked_queries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Lists as Stacks and Queues/truck_tour.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/14 February 2021/collecting_coins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/14 February 2021/cupcake_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/14 February 2021/fireworks_show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 14 April 2021/darts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 14 April 2021/flights.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 14 April 2021/pizza_orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 14 April 2022/martian_explorer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 14 April 2022/ramen_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 14 April 2022/words_sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 14 December 2022/climb_the_peaks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 14 December 2022/navy_battle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 14 December 2022/student_credit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 15 December 2021/christmas_elves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 15 December 2021/naughty_or_nice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 15 December 2021/north_pole_challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 18 August 2022/crud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 18 August 2022/song_creator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 18 August 2022/stewards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 19 February 2022/flower_finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 19 February 2022/pawn_wars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 19 February 2022/springtime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 22 October 2022/energy_drinks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 22 October 2022/hourly_forecast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 22 October 2022/rally_racing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 23 October 2021/aladdins_gifts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 23 October 2021/ball_in_the_bucket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 23 October 2021/shopping_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 25 June 2022/collecting_eggs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 25 June 2022/exit_founder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 25 June 2022/shopping_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam/apocalypse_preparation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam/blind_mans_buff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam/grocery_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Lab/climb_the_peaks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Lab/rally_racing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Lab/shopping_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Error Handling/email_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Error Handling/numbers_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Functions Advanced/age_assigment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Functions Advanced/concatenate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Functions Advanced/even_or_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Functions Advanced/function_executor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Functions Advanced/grocery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Functions Advanced/keyword_arguments_length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Functions Advanced/negative_vs_positive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Functions Advanced/numbers_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Functions Advanced/recursion_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Multidimensional Lists/2x2_squares_in_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Multidimensional Lists/diagonal_difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Multidimensional Lists/diagonals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Multidimensional Lists/flatten_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Multidimensional Lists/matrix_modification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Multidimensional Lists/matrix_shuffling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Multidimensional Lists/maximal_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Stacks, Queues, Tuples, and Sets/expression_evaluator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Stacks, Queues, Tuples, and Sets/honey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Stacks, Queues, Tuples, and Sets/milkshakes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Stacks, Queues, Tuples, and Sets/numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Tuples and Sets/battle_of_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Tuples and Sets/count_symbols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Tuples and Sets/longest_intersection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Tuples and Sets/periodic_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Tuples and Sets/sets_of_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exercises/Tuples and Sets/unique_usernames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Error Handling/repeat_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Error Handling/so_many_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Error Handling/value_cannot_be_negative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/File Handling/file_delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/File Handling/file_opener.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/File Handling/file_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/File Handling/file_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/File Handling/word_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Functions Advanced/cheese_showcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Functions Advanced/multiplication_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Functions Advanced/person_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Functions Advanced/rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Functions Advanced/recursive_power.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Multidimensional Lists/even_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Multidimensional Lists/flattening_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Multidimensional Lists/primary_diagonal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Multidimensional Lists/square_with_maximum_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Multidimensional Lists/sum_matrix_columns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Multidimensional Lists/sum_matrix_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Multidimensional Lists/symbol_in_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Tuples and Sets/count_same_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Tuples and Sets/parking_lot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Tuples and Sets/record_unique_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Tuples and Sets/softuni_party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Tuples and Sets/students_grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Workshop/connect_four.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SoftUni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Exercises/Dictionaries/phonebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Exercises/Dictionaries/phonebook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab Exercises/Lists as Stacks and Queues/hot_potato.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Lists as Stacks and Queues/hot_potato.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab Exercises/Lists as Stacks and Queues/matching_parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Lists as Stacks and Queues/matching_parentheses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab Exercises/Lists as Stacks and Queues/reverse_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Lists as Stacks and Queues/reverse_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab Exercises/Lists as Stacks and Queues/supermarket.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Lists as Stacks and Queues/supermarket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab Exercises/Lists as Stacks and Queues/water_dispenser.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Lists as Stacks and Queues/water_dispenser.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,22 +125,28 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2F1XvogQaRKqU9TfFbQBd5T4t9p" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/GitHub/SoftUni",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GitHub/SoftUni/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 25 June 2022&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\SoftUni\SoftUni-Python-Advanced-01-2023\Exam Preparation\Exam - 25 June 2022" />
+      <recent name="D:\GitHub\SoftUni\SoftUni-Python-Advanced-01-2023\Exam Preparation\Exam - 22 October 2022" />
+      <recent name="D:\GitHub\SoftUni\SoftUni-Python-Advanced-01-2023\Exam Preparation\Exam - 14 December 2022" />
       <recent name="E:\SoftUni\Exercises\Basic Syntax, Conditional Statements and Loops" />
       <recent name="E:\SoftUni\SoftUni-Programming-Fundamentals-with-Python\Basic Syntax, Conditional Statements and Loops" />
     </key>
@@ -61,7 +159,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.test">
-    <configuration name="03_pirates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="apocalypse_preparation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Exam Preparation/Final" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Exam Preparation/Final/03_pirates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam/apocalypse_preparation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="encrypting_password" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="blind_mans_buff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +188,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Exam Preparation/Final" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Exam Preparation/Final/encrypting_password.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam/blind_mans_buff.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hogwarts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="cupcake_shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +209,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Exam Preparation/Final" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/14 February 2021" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Exam Preparation/Final/hogwarts.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/14 February 2021/cupcake_shop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="grocery_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam/grocery_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,32 +251,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Exam Preparation/Final" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Exam Preparation/Final/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="wild_zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Exam Preparation/Final" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Exam Preparation/Final/wild_zoo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,10 +267,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.hogwarts" />
-        <item itemvalue="Python.encrypting_password" />
-        <item itemvalue="Python.wild_zoo" />
-        <item itemvalue="Python.03_pirates" />
+        <item itemvalue="Python.grocery_list" />
+        <item itemvalue="Python.blind_mans_buff" />
+        <item itemvalue="Python.apocalypse_preparation" />
+        <item itemvalue="Python.cupcake_shop" />
       </list>
     </recent_temporary>
   </component>
@@ -201,39 +299,178 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Lab Exercises/Functions/palindrome_integers.py</url>
           <line>3</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Lab Exercises/Functions/palindrome_integers.py</url>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Lab Exercises/Functions/palindrome_integers.py</url>
           <line>11</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Lab Exercises/Functions/palindrome_integers.py</url>
           <line>5</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Lab Exercises/Functions/palindrome_integers.py</url>
           <line>4</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Exam Preparation/Mid/the_hunting_game.py</url>
           <line>7</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/SoftUni-Programming-Fundamentals-with-Python/Exam Preparation/Mid/the_hunting_game.py</url>
           <line>6</line>
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Lab/Tuples and Sets/parking_lot.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Random/02. Navy Battle_Author's Solution.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Random/02. Navy Battle_Author's Solution.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 25 June 2022/collecting_eggs.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 25 June 2022/exit_founder.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 25 June 2022/exit_founder.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 25 June 2022/exit_founder.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 14 April 2022/martian_explorer.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 14 April 2022/ramen_shop.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 14 April 2022/ramen_shop.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 19 February 2022/flower_finder.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Random/01. Flowers Finder_Author's Solution 2.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 19 February 2022/pawn_wars.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 15 December 2021/north_pole_challenge.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 15 December 2021/north_pole_challenge.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 15 December 2021/christmas_elves.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 23 October 2021/aladdins_gifts.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 23 October 2021/aladdins_gifts.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 23 October 2021/aladdins_gifts.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 23 October 2021/test.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 23 October 2021/ball_in_the_bucket.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 23 October 2021/shopping_list.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 14 April 2021/darts.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam - 14 April 2021/flights.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/14 February 2021/collecting_coins.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam/apocalypse_preparation.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam/blind_mans_buff.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced-01-2023/Exam Preparation/Exam/grocery_list.py</url>
+          <option name="timeStamp" value="173" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
